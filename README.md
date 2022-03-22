@@ -1,3 +1,7 @@
+Para utilizar la app
+corra le back end vectorial-users-back en localhost 4000
+luego corra la app en modo dev con npm start local host 3000.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
